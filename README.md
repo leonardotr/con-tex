@@ -1,7 +1,6 @@
 # con-tex
 Software de Gestión para la Empresa Textil Confecciones Sofi
 
-Usuario por defecto
 Usuario: root
 contraseña: 0000
 
