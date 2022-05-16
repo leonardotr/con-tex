@@ -1,7 +1,7 @@
 # con-tex
 Software de Gestión para la Empresa Textil Confecciones Sofi
 
-27/04/2021 Se modificó el nombre de la BD_Actualizada.sql --> database.sql
+27/04/2021 Se modificó el nombre de la BD_Actualizada.sql --> contex_database.sql
 
 2/05/2021 Se Realizaron nuevamente correcciones a la DB por error en duplicacion de archivos DB
 
